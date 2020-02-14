@@ -3,7 +3,7 @@
   (general
     (links 109)
     (no_connects 0)
-    (area 132.674999 54.424999 179.325001 81.575001)
+    (area 117.295308 43.775 185.392858 81.825001)
     (thickness 1.6)
     (drawings 37)
     (tracks 125)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory RGB_lamp_wemos_shield_gerber/))
+      (outputdirectory RGBW_board_Gerber/))
   )
 
   (net 0 "")
@@ -1729,7 +1729,7 @@
   )
 
   (dimension 46.5 (width 0.3) (layer Eco2.User)
-    (gr_text "46,500 mm" (at 156 47.8) (layer Eco2.User)
+    (gr_text "46,500 mm" (at 156 47.6) (layer Eco2.User)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (feature1 (pts (xy 132.75 56.9) (xy 132.75 46.45)))

@@ -3,7 +3,7 @@
   (general
     (links 109)
     (no_connects 0)
-    (area 117.295308 43.775 185.392858 81.825001)
+    (area 132.674999 54.424999 179.325001 81.575001)
     (thickness 1.6)
     (drawings 37)
     (tracks 125)
@@ -14,8 +14,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -1767,7 +1767,7 @@
   (gr_text "Designed by: KKL" (at 157.6 73.9 180) (layer B.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.2)) (justify mirror))
   )
-  (gr_text REV1 (at 165.3 56.6 180) (layer B.SilkS)
+  (gr_text REV2 (at 165.3 56.6 180) (layer B.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify mirror))
   )
   (gr_text "RGBW Wemos shield " (at 157.15 76.4 180) (layer B.SilkS)

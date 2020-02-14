@@ -25,7 +25,7 @@ PCB for adding support fir controlling high current RGBW LED strips. Constructed
 - [x] Change overall PCB layout
 - [x] Change pin-layout (again) To fit new configuration og main ATmega board
 - [x] Change position og DC-jack (Snap off if not used)
-- [ ] Edited silk-mask revision
+- [x] Edited silk-mask revision
 - [ ] Add pull-up resistors on BTN input
 
 ### Authors
